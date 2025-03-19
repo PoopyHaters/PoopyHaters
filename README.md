@@ -1,3 +1,4 @@
 # hi
 i am cool 
--- Moderator @ Flarial Client                                                                                                                                                                                                                                              -- Moderator @ Selaura Client
+-- Moderator @ Flarial Client & Selaura Client                                                                                                                                                                                                                             coding python & lua
+i want 2 learn c++ someday
